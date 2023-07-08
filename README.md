@@ -2,7 +2,7 @@
 System requirements:
 - OC: Windows
 # Launch preparation:
-- download folder Game
+- download all files in one folder (Game)
 - Open Game\out\build\x64-Debug\sfml_sample.exe
 - Press 
 - Play
