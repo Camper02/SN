@@ -1,0 +1,3 @@
+C:/Users/Администратор/source/repos/Game/out/build/x64-Debug/CMakeFiles/sfml_sample.dir
+C:/Users/Администратор/source/repos/Game/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Администратор/source/repos/Game/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
